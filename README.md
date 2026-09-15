@@ -56,7 +56,7 @@ The onboarding process involved identity verification through a liveness/verific
 - Resource consumption and battery usage
 - Recovery when verification could not be completed
 
-I worked on improving the integration by establishing more reliable communication channels, managing resources carefully and introducing fallback handling when verification could not be completed successfully.
+I worked on improving the integration by establishing more reliable communication channels, managing resources carefully and introducing fallback handling when verification could not be completed.
 
 ### Product Delivery
 
@@ -78,7 +78,7 @@ The work required close collaboration between mobile engineering, backend engine
 **Public product:** Equity Mobile — Google Play  
 [View Equity Mobile](https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile&utm_source=chatgpt.com)
 
-The public listing describes Equity Mobile as a digital banking application supporting account management, transfers, payments, lending and other financial services, with 5M+ downloads currently listed on Google Play.
+The public listing describes Equity Mobile as a digital banking application supporting account management, transfers, payments, lending and other financial services, with 5M+ downloads currently listed.
 
 ---
 
@@ -165,7 +165,7 @@ The current public listing describes policy comparison and purchase, paperless c
 
 **Industry:** Insurance / Financial Services  
 **Platform:** Android  
-**Organization:** Britam / Hillcroft Technologies  
+**Organization:** Britam  
 **Role:** Android Engineering
 
 ### Project Overview
@@ -282,18 +282,21 @@ The engineering approach therefore emphasized:
 - Customer-facing financial workflows
 - Reliability-focused mobile development
 
+**Public product:** Ngao Credit — Google Play  
+[View Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit&utm_source=chatgpt.com)
+
 ---
 
-# 5. M-Verona Sacco / Verona Huruma
+# 5. Verona Huruma
 
 **Industry:** SACCO / Financial Services  
 **Platform:** Android  
-**Organization:** Verona Huruma SACCO  
+**Organization:** Extra Inch  
 **Role:** Android / Mobile Engineering
 
 ### Project Overview
 
-M-Verona Sacco is a mobile financial services platform supporting SACCO members with savings, deposits and credit-related services.
+Verona Huruma is a mobile financial services platform supporting SACCO members with savings, deposits and credit-related services.
 
 The public application includes:
 
@@ -345,8 +348,8 @@ This required attention to:
 - Android application development
 - Financial product digitization
 
-**Public product:** M-Verona Sacco — Google Play  
-[View M-Verona Sacco](https://play.google.com/store/apps/details?id=co.ke.veronasacco&utm_source=chatgpt.com)
+**Public product:** Verona Huruma — Google Play  
+[View Verona Huruma](https://play.google.com/store/apps/details?id=co.ke.veronasacco&utm_source=chatgpt.com)
 
 The public listing confirms savings/deposits, accounts, loan applications, loan repayment, loan status, guarantors and next-of-kin functionality.
 
@@ -440,7 +443,7 @@ In addition to conventional mobile engineering, I have experience with AI/LLM-re
 
 I bring more than implementation experience.
 
-Having worked across banking, insurance, lending and financial services, I understand that successful software is not simply about writing code. It requires understanding the business problem, designing practical technical solutions, integrating with existing systems, handling real-world failures and delivering software that users can depend on.
+Having worked across banking, insurance, lending and financial services, I understand that successful software is not simply about writing code. It requires understanding the business problem, designing reliable workflows and collaborating effectively across teams.
 
 I am particularly well suited to projects involving:
 
@@ -489,6 +492,6 @@ Helping teams break down complex requirements, evaluate technical options and tr
 
 # Professional Focus
 
-My experience has evolved from implementing individual mobile features to understanding complete digital product delivery — architecture, integrations, reliability, user experience, business requirements and production operations.
+My experience has evolved from implementing individual mobile features to understanding complete digital product delivery — architecture, integrations, reliability, user experience, business requirements and long-term maintainability.
 
-I am interested in working with organizations that need a technically strong partner who can understand the problem, communicate effectively with technical and non-technical stakeholders, and deliver practical solutions that work in real-world environments.
+I am interested in working with organizations that need a technically strong partner who can understand the problem, communicate effectively with technical and non-technical stakeholders, and deliver production-ready mobile solutions.
