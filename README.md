@@ -25,6 +25,8 @@ Equity Mobile is a digital banking platform serving millions of customers across
 
 The public application currently provides features including account management, transfers, bill payments, airtime purchases, loans, card controls, biometric authentication and digital insurance products.
 
+<img width="1676" height="616" alt="image" src="https://github.com/user-attachments/assets/9daeaef7-4559-4bcc-8fd0-04df35220609" />
+
 ### My Contribution
 
 I worked as part of the mobile engineering team responsible for delivering and maintaining functionality within the Equity Mobile ecosystem.
@@ -95,6 +97,8 @@ The public listing describes Equity Mobile as a digital banking application supp
 The application provides a digital insurance platform allowing customers to discover, compare and purchase insurance products while managing claims digitally.
 
 The public application supports policy purchase, insurance information, digital claims and paperless insurance processes.
+
+<img width="1672" height="614" alt="image" src="https://github.com/user-attachments/assets/f09472bd-294d-47e5-839d-7db659e13c22" />
 
 ### My Contribution
 
@@ -176,6 +180,8 @@ The application enables advisors to interact with insurance products and manage 
 
 Publicly listed capabilities include digital insurance purchases, commission tracking and digital commission withdrawals.
 
+<img width="1704" height="616" alt="image" src="https://github.com/user-attachments/assets/bbbcb554-9a78-4a87-878e-0e05eff2beda" />
+
 ### My Contribution
 
 I contributed to the Android application and its supporting digital workflows.
@@ -243,6 +249,8 @@ Ngao Credit was a mobile lending and financial services application designed to 
 
 The project exposed me to the engineering requirements of financial applications where transaction integrity, customer data, API reliability and predictable user flows are critical.
 
+<img width="1528" height="626" alt="image" src="https://github.com/user-attachments/assets/cf10b5ea-476b-4bcd-a404-eaa95f341ef6" />
+
 ### My Contribution
 
 I worked on the Android application and contributed to the implementation of customer-facing financial workflows.
@@ -307,6 +315,8 @@ The public application includes:
 - Loan applications
 - Next-of-kin information
 - Guarantor information
+
+<img width="1168" height="616" alt="image" src="https://github.com/user-attachments/assets/833a6cfb-3710-4be6-9ff2-700c8571aa26" />
 
 ### My Contribution
 
