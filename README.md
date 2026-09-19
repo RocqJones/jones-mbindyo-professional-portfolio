@@ -2,11 +2,11 @@
 
 ## About
 
-I am a technology professional with 6+ years of experience designing, building, integrating and maintaining mobile and digital products across banking, fintech, insurance, lending and financial services.
+I am a technology professional with 6+ years of experience designing, building, integrating, and maintaining mobile and digital products across banking, fintech, insurance, lending, and financial services.
 
-My experience spans Android and mobile engineering, software architecture, API integrations, application reliability, CI/CD, technical documentation, AI/LLM evaluation and cross-functional product delivery.
+My experience spans Android and mobile engineering, software architecture, API integrations, application reliability, CI/CD, technical documentation, AI/LLM evaluation, and cross-functional product delivery.
 
-I have worked on products used by customers, financial institutions, insurance providers and field agents, with a particular focus on applications where security, reliability, performance and usability are critical.
+I have worked on products used by customers, financial institutions, insurance providers, and field agents, with a particular focus on applications where security, reliability, performance, and usability are critical.
 
 The following projects represent selected work across my professional career.
 
@@ -21,9 +21,9 @@ The following projects represent selected work across my professional career.
 
 ### Project Overview
 
-Equity Mobile is a digital banking platform serving millions of customers across Equity's markets. The application provides customers with access to banking, payments, transfers, lending, account management and other financial services.
+Equity Mobile is a digital banking platform serving millions of customers across Equity's markets. The application provides customers with access to banking, payments, transfers, lending, account management, and other financial services.
 
-The public application currently provides features including account management, transfers, bill payments, airtime purchases, loans, card controls, biometric authentication and digital insurance products.
+The public application currently provides features including account management, transfers, bill payments, airtime purchases, loans, card controls, biometric authentication, and digital insurance products.
 
 <img width="1676" height="616" alt="image" src="https://github.com/user-attachments/assets/9daeaef7-4559-4bcc-8fd0-04df35220609" />
 
@@ -58,13 +58,13 @@ The onboarding process involved identity verification through a liveness/verific
 - Resource consumption and battery usage
 - Recovery when verification could not be completed
 
-I worked on improving the integration by establishing more reliable communication channels, managing resources carefully and introducing fallback handling when verification could not be completed.
+I worked on improving the integration by establishing more reliable communication channels, managing resources carefully, and introducing fallback handling when verification could not be completed.
 
 ### Product Delivery
 
 I contributed to the delivery of Equity's digital insurance experience, including insurance products made available directly through the mobile application.
 
-The work required close collaboration between mobile engineering, backend engineering, product, design and business stakeholders.
+The work required close collaboration between mobile engineering, backend engineering, product, design, and business stakeholders.
 
 ### Key Capabilities Demonstrated
 
@@ -78,9 +78,9 @@ The work required close collaboration between mobile engineering, backend engine
 - Production-focused engineering
 
 **Public product:** Equity Mobile — Google Play  
-[View Equity Mobile](https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile&utm_source=chatgpt.com)
+[View Equity Mobile](https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile)
 
-The public listing describes Equity Mobile as a digital banking application supporting account management, transfers, payments, lending and other financial services, with 5M+ downloads currently listed.
+The public listing describes Equity Mobile as a digital banking application supporting account management, transfers, payments, lending, and other financial services, with 5M+ downloads currently listed.
 
 ---
 
@@ -94,9 +94,9 @@ The public listing describes Equity Mobile as a digital banking application supp
 
 ### Project Overview
 
-The application provides a digital insurance platform allowing customers to discover, compare and purchase insurance products while managing claims digitally.
+The application provides a digital insurance platform allowing customers to discover, compare, and purchase insurance products while managing claims digitally.
 
-The public application supports policy purchase, insurance information, digital claims and paperless insurance processes.
+The public application supports policy purchase, insurance information, digital claims, and paperless insurance processes.
 
 <img width="1672" height="614" alt="image" src="https://github.com/user-attachments/assets/f09472bd-294d-47e5-839d-7db659e13c22" />
 
@@ -117,11 +117,11 @@ Key areas included:
 - Application reliability
 - CI/CD and release processes
 - Technical documentation
-- Collaboration with backend, product and business teams
+- Collaboration with backend, product, and business teams
 
 ### Insurance Automation
 
-One of the major technical initiatives involved using **Azure AI OCR** to automate extraction of information from insurance documents.
+One of the major technical initiatives involved using **Azure AI OCR** to automate the extraction of information from insurance documents.
 
 The objective was to reduce manual processing involved in insurance policy issuance.
 
@@ -140,7 +140,7 @@ This required consideration of:
 
 ### Engineering Improvements
 
-During the project, I also contributed to the adoption of structured engineering practices including Clean Architecture and MVVM.
+During the project, I also contributed to the adoption of structured engineering practices, including Clean Architecture and MVVM.
 
 The objective was to improve maintainability and make the application easier for multiple engineers to work on as functionality expanded.
 
@@ -159,9 +159,9 @@ I also contributed to automated engineering workflows, including Android CI/CD a
 - Working with insurance domain requirements
 
 **Public product:** bolttech Kenya — Google Play  
-[View bolttech Kenya](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek&utm_source=chatgpt.com)
+[View bolttech Kenya](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek)
 
-The current public listing describes policy comparison and purchase, paperless claims management, installment payments and multiple insurance providers.
+The current public listing describes policy comparison and purchase, paperless claims management, installment payments, and multiple insurance providers.
 
 ---
 
@@ -230,7 +230,7 @@ Important considerations included:
 - User-focused mobile design
 
 **Public product:** Micro Insurance Advisors — Google Play  
-[View Micro Insurance Advisors](https://play.google.com/store/apps/details?id=com.hillcroft.apps.britam&utm_source=chatgpt.com)
+[View Micro Insurance Advisors](https://play.google.com/store/apps/details?id=com.hillcroft.apps.britam)
 
 The current listing identifies digital insurance purchases, commission tracking and digital commission withdrawals among the application's capabilities.
 
@@ -291,7 +291,7 @@ The engineering approach therefore emphasized:
 - Reliability-focused mobile development
 
 **Public product:** Ngao Credit — Google Play  
-[View Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit&utm_source=chatgpt.com)
+[View Ngao Credit](https://play.google.com/store/apps/details?id=app.ngao.android)
 
 ---
 
@@ -359,7 +359,7 @@ This required attention to:
 - Financial product digitization
 
 **Public product:** Verona Huruma — Google Play  
-[View Verona Huruma](https://play.google.com/store/apps/details?id=co.ke.veronasacco&utm_source=chatgpt.com)
+[View Verona Huruma](https://play.google.com/store/apps/details?id=co.ke.veronasacco)
 
 The public listing confirms savings/deposits, accounts, loan applications, loan repayment, loan status, guarantors and next-of-kin functionality.
 
