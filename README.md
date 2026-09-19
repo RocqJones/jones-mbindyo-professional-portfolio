@@ -278,7 +278,7 @@ The engineering approach emphasized:
 - Reliability-focused mobile development
 
 **Public product:** Ngao Credit — Google Play  
-[View Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit)
+[View Ngao Credit](https://play.google.com/store/apps/details?id=app.ngao.android)
 
 ---
 
