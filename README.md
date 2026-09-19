@@ -2,13 +2,13 @@
 
 ## About
 
-I am a technology professional with 6+ years of experience designing, building, integrating, and maintaining mobile and digital products across banking, fintech, insurance, lending, and financial services.
+I am a technology professional with 6+ years of experience building, integrating, and improving mobile and digital products across banking, fintech, insurance, lending, and financial services.
 
-My experience spans Android and mobile engineering, software architecture, API integrations, application reliability, CI/CD, technical documentation, AI/LLM evaluation, and cross-functional product delivery.
+My background spans Android engineering, software architecture, API integration, application reliability, CI/CD, technical documentation, AI/LLM evaluation, and cross-functional product delivery.
 
-I have worked on products used by customers, financial institutions, insurance providers, and field agents, with a particular focus on applications where security, reliability, performance, and usability are critical.
+I have worked on products used by customers, financial institutions, insurance providers, and field agents, with a focus on applications where security, reliability, performance, and usability matter.
 
-The following projects represent selected work across my professional career.
+The projects below highlight selected work from my career.
 
 ---
 
@@ -21,9 +21,7 @@ The following projects represent selected work across my professional career.
 
 ### Project Overview
 
-Equity Mobile is a digital banking platform serving millions of customers across Equity's markets. The application provides customers with access to banking, payments, transfers, lending, account management, and other financial services.
-
-The public application currently provides features including account management, transfers, bill payments, airtime purchases, loans, card controls, biometric authentication, and digital insurance products.
+Equity Mobile is a digital banking platform serving millions of customers across Equity's markets. The app provides access to banking, payments, transfers, lending, account management, and other financial services.
 
 <img width="1676" height="616" alt="image" src="https://github.com/user-attachments/assets/9daeaef7-4559-4bcc-8fd0-04df35220609" />
 
@@ -31,40 +29,40 @@ The public application currently provides features including account management,
 
 I worked as part of the mobile engineering team responsible for delivering and maintaining functionality within the Equity Mobile ecosystem.
 
-A significant area of my work was the integration and delivery of **digital insurance capabilities** into the existing mobile banking experience.
+A major area of my work was the integration and delivery of digital insurance capabilities into the existing mobile banking experience.
 
-This included working across:
+This included:
 
 - Android application architecture and feature implementation
 - Kotlin and Jetpack Compose
-- API and backend integrations
+- API and backend integration
 - Authentication and customer journeys
 - Insurance onboarding flows
-- Third-party identity/liveness verification
-- Error handling and recovery flows
+- Third-party identity and liveness verification
+- Error handling and recovery
 - Performance and resource management
-- Product and design collaboration
+- Cross-functional product collaboration
 - Technical documentation and engineering standards
 
 ### Insurance Onboarding
 
-One of the technically challenging areas was building an insurance onboarding experience that could also support customers who were not already Equity members.
+One of the most technically demanding areas was building an insurance onboarding experience for customers who were not already Equity members.
 
-The onboarding process involved identity verification through a liveness/verification SDK. This introduced challenges around:
+The flow involved identity verification through a liveness/verification SDK, which introduced challenges around:
 
-- Different camera capabilities across Android devices
-- Poor or unstable network conditions
+- Device camera differences
+- Unstable network conditions
 - SDK timeouts
-- Resource consumption and battery usage
+- Resource use and battery consumption
 - Recovery when verification could not be completed
 
-I worked on improving the integration by establishing more reliable communication channels, managing resources carefully, and introducing fallback handling when verification could not be completed.
+I improved the integration by creating more reliable communication paths, managing resources carefully, and adding fallback handling when verification failed.
 
 ### Product Delivery
 
-I contributed to the delivery of Equity's digital insurance experience, including insurance products made available directly through the mobile application.
+I contributed to the delivery of Equity's digital insurance experience, including insurance products offered directly within the mobile app.
 
-The work required close collaboration between mobile engineering, backend engineering, product, design, and business stakeholders.
+The work required close collaboration with mobile engineering, backend engineering, product, design, and business stakeholders.
 
 ### Key Capabilities Demonstrated
 
@@ -73,14 +71,12 @@ The work required close collaboration between mobile engineering, backend engine
 - Android architecture
 - Third-party SDK integration
 - Reliability engineering
-- Network and device variability handling
+- Handling network and device variability
 - Cross-functional product delivery
 - Production-focused engineering
 
 **Public product:** Equity Mobile — Google Play  
 [View Equity Mobile](https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile)
-
-The public listing describes Equity Mobile as a digital banking application supporting account management, transfers, payments, lending, and other financial services, with 5M+ downloads currently listed.
 
 ---
 
@@ -96,13 +92,13 @@ The public listing describes Equity Mobile as a digital banking application supp
 
 The application provides a digital insurance platform allowing customers to discover, compare, and purchase insurance products while managing claims digitally.
 
-The public application supports policy purchase, insurance information, digital claims, and paperless insurance processes.
+The public app supports policy purchase, insurance information, digital claims, and paperless insurance processes.
 
 <img width="1672" height="614" alt="image" src="https://github.com/user-attachments/assets/f09472bd-294d-47e5-839d-7db659e13c22" />
 
 ### My Contribution
 
-I worked on the Android application and contributed to the evolution of the platform from a traditional insurance application toward a more digital, automated customer experience.
+I worked on the Android application and helped evolve the platform from a traditional insurance app into a more digital, automated customer experience.
 
 Key areas included:
 
@@ -121,18 +117,17 @@ Key areas included:
 
 ### Insurance Automation
 
-One of the major technical initiatives involved using **Azure AI OCR** to automate the extraction of information from insurance documents.
+One of the major technical initiatives involved using Azure AI OCR to automate extraction of information from insurance documents.
 
-The objective was to reduce manual processing involved in insurance policy issuance.
+The goal was to reduce the manual work involved in policy issuance.
 
-The automation increased the proportion of policy issuance that could be handled through the digital process from approximately **30% to 85%**.
+The automation increased the share of policy issuance that could be handled digitally from roughly 30% to 85%.
 
-This required consideration of:
+This required work across:
 
 - Document capture
 - OCR processing
-- Extracted data
-- Validation
+- Extracted data validation
 - API communication
 - Error handling
 - User feedback
@@ -140,11 +135,9 @@ This required consideration of:
 
 ### Engineering Improvements
 
-During the project, I also contributed to the adoption of structured engineering practices, including Clean Architecture and MVVM.
+I also contributed to the adoption of structured engineering practices, including Clean Architecture and MVVM, to improve maintainability as the app grew.
 
-The objective was to improve maintainability and make the application easier for multiple engineers to work on as functionality expanded.
-
-I also contributed to automated engineering workflows, including Android CI/CD and Play Console deployment processes.
+I supported Android CI/CD and Play Console deployment workflows to streamline release processes.
 
 ### Key Capabilities Demonstrated
 
@@ -156,12 +149,10 @@ I also contributed to automated engineering workflows, including Android CI/CD a
 - Automation of manual business processes
 - CI/CD
 - Production application maintenance
-- Working with insurance domain requirements
+- Insurance domain implementation
 
 **Public product:** bolttech Kenya — Google Play  
 [View bolttech Kenya](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek)
-
-The current public listing describes policy comparison and purchase, paperless claims management, installment payments, and multiple insurance providers.
 
 ---
 
@@ -176,15 +167,13 @@ The current public listing describes policy comparison and purchase, paperless c
 
 Micro Insurance Advisors is a mobile platform designed to support insurance advisors and agents in selling and managing insurance products digitally.
 
-The application enables advisors to interact with insurance products and manage sales-related activities from a mobile device.
-
-Publicly listed capabilities include digital insurance purchases, commission tracking and digital commission withdrawals.
+The app enables advisors to interact with insurance products and manage sales-related activities from a mobile device.
 
 <img width="1704" height="616" alt="image" src="https://github.com/user-attachments/assets/bbbcb554-9a78-4a87-878e-0e05eff2beda" />
 
 ### My Contribution
 
-I contributed to the Android application and its supporting digital workflows.
+I contributed to the Android app and its supporting digital workflows.
 
 The work involved:
 
@@ -202,13 +191,13 @@ The work involved:
 
 ### Business Problem
 
-Traditional insurance sales processes often involve manual paperwork, fragmented communication and limited visibility into sales performance.
+Traditional insurance sales processes often involve manual paperwork, fragmented communication, and limited visibility into sales performance.
 
-The mobile platform helped move parts of this process into a digital workflow, allowing agents to interact with insurance products and manage commission-related information from their devices.
+The mobile platform helped move parts of the process into a digital workflow, allowing agents to interact with insurance products and manage commission-related information from their devices.
 
 ### Engineering Focus
 
-The project required building mobile workflows that were practical for users operating outside traditional office environments.
+The project required building mobile workflows that were practical for users outside traditional office environments.
 
 Important considerations included:
 
@@ -232,8 +221,6 @@ Important considerations included:
 **Public product:** Micro Insurance Advisors — Google Play  
 [View Micro Insurance Advisors](https://play.google.com/store/apps/details?id=com.hillcroft.apps.britam)
 
-The current listing identifies digital insurance purchases, commission tracking and digital commission withdrawals among the application's capabilities.
-
 ---
 
 # 4. Ngao Credit
@@ -245,15 +232,15 @@ The current listing identifies digital insurance purchases, commission tracking 
 
 ### Project Overview
 
-Ngao Credit was a mobile lending and financial services application designed to provide customers with access to digital financial services through a mobile application.
+Ngao Credit was a mobile lending and financial services application designed to provide customers with access to digital financial services through a mobile app.
 
-The project exposed me to the engineering requirements of financial applications where transaction integrity, customer data, API reliability and predictable user flows are critical.
+The project exposed me to the engineering requirements of financial applications where transaction integrity, customer data, API reliability, and predictable user flows are critical.
 
 <img width="1528" height="626" alt="image" src="https://github.com/user-attachments/assets/cf10b5ea-476b-4bcd-a404-eaa95f341ef6" />
 
 ### My Contribution
 
-I worked on the Android application and contributed to the implementation of customer-facing financial workflows.
+I worked on the Android app and contributed to customer-facing financial workflows.
 
 The work included:
 
@@ -272,7 +259,7 @@ The work included:
 
 Financial applications require careful handling of application state and network interactions because users may perform actions while experiencing unreliable connectivity.
 
-The engineering approach therefore emphasized:
+The engineering approach emphasized:
 
 - Clear application states
 - Reliable API communication
@@ -304,9 +291,9 @@ The engineering approach therefore emphasized:
 
 ### Project Overview
 
-Verona Huruma is a mobile financial services platform supporting SACCO members with savings, deposits and credit-related services.
+Verona Huruma is a mobile financial services platform supporting SACCO members with savings, deposits, and credit-related services.
 
-The public application includes:
+The public app includes:
 
 - Deposits
 - Account information
@@ -320,7 +307,7 @@ The public application includes:
 
 ### My Contribution
 
-I worked on the Android application and contributed to delivering mobile access to SACCO financial services.
+I worked on the Android app and contributed to delivering mobile access to SACCO financial services.
 
 The work involved:
 
@@ -330,13 +317,13 @@ The work involved:
 - Account and transaction-related functionality
 - Loan workflows
 - Data validation
-- User interface implementation
+- UI implementation
 - Application maintenance
 - Backend integration
 
 ### Engineering Considerations
 
-The application needed to translate traditionally branch- or office-based SACCO processes into straightforward mobile workflows.
+The application needed to translate traditionally branch-based SACCO processes into straightforward mobile workflows.
 
 This required attention to:
 
@@ -360,8 +347,6 @@ This required attention to:
 
 **Public product:** Verona Huruma — Google Play  
 [View Verona Huruma](https://play.google.com/store/apps/details?id=co.ke.veronasacco)
-
-The public listing confirms savings/deposits, accounts, loan applications, loan repayment, loan status, guarantors and next-of-kin functionality.
 
 ---
 
@@ -437,7 +422,7 @@ Experience solving problems involving:
 
 ## AI & Emerging Technology
 
-In addition to conventional mobile engineering, I have experience with AI/LLM-related work including:
+In addition to conventional mobile engineering, I have experience with AI/LLM-related work, including:
 
 - LLM response evaluation
 - Response ranking
@@ -451,32 +436,32 @@ In addition to conventional mobile engineering, I have experience with AI/LLM-re
 
 # What I Bring to Client Projects
 
-I bring more than implementation experience.
+I bring practical experience building software that works in real-world financial and mobile environments.
 
-Having worked across banking, insurance, lending and financial services, I understand that successful software is not simply about writing code. It requires understanding the business problem, designing reliable workflows and collaborating effectively across teams.
+My background across banking, insurance, lending, and financial services helps me understand both the business problem and the engineering needs behind it.
 
 I am particularly well suited to projects involving:
 
 **Mobile Applications**  
-Designing, developing and improving Android and cross-platform applications.
+Designing, developing, and improving Android and cross-platform applications.
 
 **Financial Technology**  
-Banking, lending, insurance, payments, SACCO and other financial-service applications.
+Banking, lending, insurance, payments, SACCO, and other financial services applications.
 
 **Technical Architecture**  
 Designing maintainable application structures and making practical technology decisions.
 
 **Third-Party Integrations**  
-Integrating SDKs, APIs, identity systems, AI services and external platforms.
+Integrating SDKs, APIs, identity systems, AI services, and external platforms.
 
 **Application Modernization**  
-Improving existing applications through architectural improvements, modern Android technologies and better engineering practices.
+Improving existing applications through architectural updates, modern Android technologies, and better engineering practices.
 
 **AI-Enabled Products**  
 Integrating AI capabilities into practical products and evaluating AI-generated or AI-assisted technical output.
 
 **Technical Consulting**  
-Helping teams break down complex requirements, evaluate technical options and translate business needs into reliable software solutions.
+Helping teams break down requirements, evaluate technical options, and translate business needs into reliable software.
 
 ---
 
@@ -494,14 +479,14 @@ Helping teams break down complex requirements, evaluate technical options and tr
 
 **Engineering:** CI/CD, automated testing, GitHub workflows, Firebase
 
-**Backend & Integration:** REST APIs, authentication, third-party SDKs and service integrations
+**Backend & Integration:** REST APIs, authentication, third-party SDKs, and service integrations
 
-**AI:** LLM evaluation, SFT datasets, RLHF workflows, OCR and AI-assisted product development
+**AI:** LLM evaluation, SFT datasets, RLHF workflows, OCR, and AI-assisted product development
 
 ---
 
 # Professional Focus
 
-My experience has evolved from implementing individual mobile features to understanding complete digital product delivery — architecture, integrations, reliability, user experience, business requirements and long-term maintainability.
+My experience has evolved from implementing individual mobile features to understanding complete digital product delivery: architecture, integrations, reliability, UX, and business requirements.
 
-I am interested in working with organizations that need a technically strong partner who can understand the problem, communicate effectively with technical and non-technical stakeholders, and deliver production-ready mobile solutions.
+I am interested in working with organizations that need a technically strong partner who can understand the problem, communicate clearly with technical and non-technical stakeholders, and deliver practical, reliable solutions.
