@@ -76,7 +76,7 @@ The work required close collaboration with mobile engineering, backend engineeri
 - Production-focused engineering
 
 **Public product:** Equity Mobile — Google Play  
-[View Equity Mobile](https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile&utm_source=chatgpt.com)
+[View Equity Mobile](https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile)
 
 ---
 
@@ -152,7 +152,7 @@ I supported Android CI/CD and Play Console deployment workflows to streamline re
 - Insurance domain implementation
 
 **Public product:** bolttech Kenya — Google Play  
-[View bolttech Kenya](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek&utm_source=chatgpt.com)
+[View bolttech Kenya](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek)
 
 ---
 
@@ -219,7 +219,7 @@ Important considerations included:
 - User-focused mobile design
 
 **Public product:** Micro Insurance Advisors — Google Play  
-[View Micro Insurance Advisors](https://play.google.com/store/apps/details?id=com.hillcroft.apps.britam&utm_source=chatgpt.com)
+[View Micro Insurance Advisors](https://play.google.com/store/apps/details?id=com.hillcroft.apps.britam)
 
 ---
 
@@ -278,7 +278,7 @@ The engineering approach emphasized:
 - Reliability-focused mobile development
 
 **Public product:** Ngao Credit — Google Play  
-[View Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit&utm_source=chatgpt.com)
+[View Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit)
 
 ---
 
@@ -346,7 +346,7 @@ This required attention to:
 - Financial product digitization
 
 **Public product:** Verona Huruma — Google Play  
-[View Verona Huruma](https://play.google.com/store/apps/details?id=co.ke.veronasacco&utm_source=chatgpt.com)
+[View Verona Huruma](https://play.google.com/store/apps/details?id=co.ke.veronasacco)
 
 ---
 
@@ -489,4 +489,4 @@ Helping teams break down requirements, evaluate technical options, and translate
 
 My experience has evolved from implementing individual mobile features to understanding complete digital product delivery: architecture, integrations, reliability, UX, and business requirements.
 
-I am interested in working with organizations that need a technically strong partner who can understand the problem, communicate clearly with technical and non-technical stakeholders, and deliver practical software solutions.
+I am interested in working with organizations that need a technically strong partner who can understand the problem, communicate clearly with technical and non-technical stakeholders, and deliver practical, reliable solutions.
